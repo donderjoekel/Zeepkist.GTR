@@ -1,0 +1,18 @@
+[submodule "Zeepkist.GTR.Backend"]
+	path = Zeepkist.GTR.Backend
+	url = git@github.com:tnrd-org/Zeepkist.GTR.Backend.git
+[submodule "Zeepkist.GTR.Auth"]
+	path = Zeepkist.GTR.Auth
+	url = git@github.com:tnrd-org/Zeepkist.GTR.Auth.git
+[submodule "Zeepkist.GTR.DTOs"]
+	path = Zeepkist.GTR.DTOs
+	url = git@github.com:tnrd-org/Zeepkist.GTR.DTOs.git
+[submodule "Zeepkist.GTR.Mod"]
+	path = Zeepkist.GTR.Mod
+	url = git@github.com:tnrd-org/Zeepkist.GTR.Mod.git
+[submodule "Zeepkist.GTR.Mod.UI"]
+	path = Zeepkist.GTR.Mod.UI
+	url = git@github.com:tnrd-org/Zeepkist.GTR.Mod.UI.git
+[submodule "Zeepkist.GTR.UnitySDK"]
+	path = Zeepkist.GTR.UnitySDK
+	url = git@github.com:tnrd-org/Zeepkist.GTR.UnitySDK.git
