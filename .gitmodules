@@ -16,3 +16,6 @@
 [submodule "Zeepkist.GTR.UnitySDK"]
 	path = Zeepkist.GTR.UnitySDK
 	url = git@github.com:tnrd-org/Zeepkist.GTR.UnitySDK.git
+[submodule "Zeepkist.GTR.Stream"]
+	path = Zeepkist.GTR.Stream
+	url = git@github.com:tnrd-org/Zeepkist.GTR.Stream.git
