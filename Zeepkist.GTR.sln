@@ -14,6 +14,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZeepkistGTR.UnitySDK", "Zee
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zeepkist.GTR.Stream", "Zeepkist.GTR.Stream\Zeepkist.GTR.Stream.csproj", "{808C01BB-8F18-4EAD-B3D0-7DD8E2A7BDF8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zeepkist.GTR.Discord", "Zeepkist.GTR.Discord\Zeepkist.GTR.Discord.csproj", "{FE73482E-6CD0-4E02-AFA8-B707C3A250F7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -48,5 +50,9 @@ Global
 		{808C01BB-8F18-4EAD-B3D0-7DD8E2A7BDF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{808C01BB-8F18-4EAD-B3D0-7DD8E2A7BDF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{808C01BB-8F18-4EAD-B3D0-7DD8E2A7BDF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE73482E-6CD0-4E02-AFA8-B707C3A250F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE73482E-6CD0-4E02-AFA8-B707C3A250F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE73482E-6CD0-4E02-AFA8-B707C3A250F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE73482E-6CD0-4E02-AFA8-B707C3A250F7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
