@@ -22,3 +22,21 @@
 [submodule "Zeepkist.GTR.Stream"]
 	path = Zeepkist.GTR.Stream
 	url = git@github.com:tnrd-org/Zeepkist.GTR.Stream.git
+[submodule "Zeepkist.GTR.Database"]
+	path = Zeepkist.GTR.Database
+	url = git@github.com:tnrd-org/Zeepkist.GTR.Database.git
+[submodule "Zeepkist.GTR.Backend.RecordMediaHandler"]
+	path = Zeepkist.GTR.Backend.RecordMediaHandler
+	url = git@github.com:tnrd-org/Zeepkist.GTR.Backend.RecordMediaHandler.git
+[submodule "Zeepkist.GTR.Backend.PersonalBestProcessor"]
+	path = Zeepkist.GTR.Backend.PersonalBestProcessor
+	url = git@github.com:tnrd-org/Zeepkist.GTR.Backend.PersonalBestProcessor.git
+[submodule "Zeepkist.GTR.Backend.WorldRecordProcessor"]
+	path = Zeepkist.GTR.Backend.WorldRecordProcessor
+	url = git@github.com:tnrd-org/Zeepkist.GTR.Backend.WorldRecordProcessor.git
+[submodule "Zeepkist.GTR.Backend.LevelScoreCalculator"]
+	path = Zeepkist.GTR.Backend.LevelScoreCalculator
+	url = https://github.com/tnrd-org/Zeepkist.GTR.Backend.LevelScoreCalculator.git
+[submodule "Zeepkist.GTR.Backend.PlayerPointsCalculator"]
+	path = Zeepkist.GTR.Backend.PlayerPointsCalculator
+	url = https://github.com/tnrd-org/Zeepkist.GTR.Backend.PlayerPointsCalculator.git
