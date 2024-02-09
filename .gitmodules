@@ -40,3 +40,6 @@
 [submodule "Zeepkist.GTR.Backend.PlayerPointsCalculator"]
 	path = Zeepkist.GTR.Backend.PlayerPointsCalculator
 	url = https://github.com/tnrd-org/Zeepkist.GTR.Backend.PlayerPointsCalculator.git
+[submodule "Zeepkist.GTR.Backend.JsonApi"]
+	path = Zeepkist.GTR.Backend.JsonApi
+	url = https://github.com/tnrd-org/Zeepkist.GTR.Backend.JsonApi.git
