@@ -1,45 +1,45 @@
 [submodule "Zeepkist.GTR.Backend"]
 	path = Zeepkist.GTR.Backend
-	url = git@github.com:tnrd-org/Zeepkist.GTR.Backend.git
+	url = https://github.com/donderjoekel/Zeepkist.GTR.Backend.git
 [submodule "Zeepkist.GTR.Auth"]
 	path = Zeepkist.GTR.Auth
-	url = git@github.com:tnrd-org/Zeepkist.GTR.Auth.git
+	url = https://github.com/donderjoekel/Zeepkist.GTR.Auth.git
 [submodule "Zeepkist.GTR.DTOs"]
 	path = Zeepkist.GTR.DTOs
-	url = git@github.com:tnrd-org/Zeepkist.GTR.DTOs.git
+	url = https://github.com/donderjoekel/Zeepkist.GTR.DTOs.git
 [submodule "Zeepkist.GTR.Mod"]
 	path = Zeepkist.GTR.Mod
-	url = git@github.com:tnrd-org/Zeepkist.GTR.Mod.git
+	url = https://github.com/donderjoekel/Zeepkist.GTR.Mod.git
 [submodule "Zeepkist.GTR.Mod.UI"]
 	path = Zeepkist.GTR.Mod.UI
-	url = git@github.com:tnrd-org/Zeepkist.GTR.Mod.UI.git
+	url = https://github.com/donderjoekel/Zeepkist.GTR.Mod.UI.git
 [submodule "Zeepkist.GTR.UnitySDK"]
 	path = Zeepkist.GTR.UnitySDK
-	url = git@github.com:tnrd-org/Zeepkist.GTR.UnitySDK.git
+	url = https://github.com/donderjoekel/Zeepkist.GTR.UnitySDK.git
 [submodule "Zeepkist.GTR.Discord"]
 	path = Zeepkist.GTR.Discord
-	url = git@github.com:tnrd-org/Zeepkist.GTR.Discord.git
+	url = https://github.com/donderjoekel/Zeepkist.GTR.Discord.git
 [submodule "Zeepkist.GTR.Stream"]
 	path = Zeepkist.GTR.Stream
-	url = git@github.com:tnrd-org/Zeepkist.GTR.Stream.git
+	url = https://github.com/donderjoekel/Zeepkist.GTR.Stream.git
 [submodule "Zeepkist.GTR.Database"]
 	path = Zeepkist.GTR.Database
-	url = git@github.com:tnrd-org/Zeepkist.GTR.Database.git
+	url = https://github.com/donderjoekel/Zeepkist.GTR.Database.git
 [submodule "Zeepkist.GTR.Backend.RecordMediaHandler"]
 	path = Zeepkist.GTR.Backend.RecordMediaHandler
-	url = git@github.com:tnrd-org/Zeepkist.GTR.Backend.RecordMediaHandler.git
+	url = https://github.com/donderjoekel/Zeepkist.GTR.Backend.RecordMediaHandler.git
 [submodule "Zeepkist.GTR.Backend.PersonalBestProcessor"]
 	path = Zeepkist.GTR.Backend.PersonalBestProcessor
-	url = git@github.com:tnrd-org/Zeepkist.GTR.Backend.PersonalBestProcessor.git
+	url = https://github.com/donderjoekel/Zeepkist.GTR.Backend.PersonalBestProcessor.git
 [submodule "Zeepkist.GTR.Backend.WorldRecordProcessor"]
 	path = Zeepkist.GTR.Backend.WorldRecordProcessor
-	url = git@github.com:tnrd-org/Zeepkist.GTR.Backend.WorldRecordProcessor.git
+	url = https://github.com/donderjoekel/Zeepkist.GTR.Backend.WorldRecordProcessor.git
 [submodule "Zeepkist.GTR.Backend.LevelScoreCalculator"]
 	path = Zeepkist.GTR.Backend.LevelScoreCalculator
-	url = https://github.com/tnrd-org/Zeepkist.GTR.Backend.LevelScoreCalculator.git
+	url = https://github.com/donderjoekel/Zeepkist.GTR.Backend.LevelScoreCalculator.git
 [submodule "Zeepkist.GTR.Backend.PlayerPointsCalculator"]
 	path = Zeepkist.GTR.Backend.PlayerPointsCalculator
-	url = https://github.com/tnrd-org/Zeepkist.GTR.Backend.PlayerPointsCalculator.git
+	url = https://github.com/donderjoekel/Zeepkist.GTR.Backend.PlayerPointsCalculator.git
 [submodule "Zeepkist.GTR.Backend.JsonApi"]
 	path = Zeepkist.GTR.Backend.JsonApi
-	url = https://github.com/tnrd-org/Zeepkist.GTR.Backend.JsonApi.git
+	url = https://github.com/donderjoekel/Zeepkist.GTR.Backend.JsonApi.git
