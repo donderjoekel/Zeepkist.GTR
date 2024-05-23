@@ -10,11 +10,25 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zeepkist.GTR.Mod", "Zeepkis
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zeepkist.GTR.Mod.UI", "Zeepkist.GTR.Mod.UI\Zeepkist.GTR.Mod.UI.csproj", "{ACDC53DD-BAF2-4DA9-BE0B-FBE3F2C9842A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZeepkistGTR.UnitySDK", "Zeepkist.GTR.UnitySDK\ZeepkistGTR.UnitySDK.csproj", "{1F6B4454-5372-41EE-A8E4-DFCA9541C43A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zeepkist.GTR.UnitySDK", "Zeepkist.GTR.UnitySDK\Zeepkist.GTR.UnitySDK.csproj", "{1F6B4454-5372-41EE-A8E4-DFCA9541C43A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zeepkist.GTR.Stream", "Zeepkist.GTR.Stream\Zeepkist.GTR.Stream.csproj", "{808C01BB-8F18-4EAD-B3D0-7DD8E2A7BDF8}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zeepkist.GTR.Discord", "Zeepkist.GTR.Discord\Zeepkist.GTR.Discord.csproj", "{FE73482E-6CD0-4E02-AFA8-B707C3A250F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zeepkist.GTR.Database", "Zeepkist.GTR.Database\Zeepkist.GTR.Database.csproj", "{7CA7CFA6-4255-450E-8DE9-21190D654E4B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zeepkist.GTR.Backend.RecordMediaHandler", "Zeepkist.GTR.Backend.RecordMediaHandler\Zeepkist.GTR.Backend.RecordMediaHandler.csproj", "{8E6DE06C-8983-4A1A-9308-94FA4966043C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zeepkist.GTR.Backend.PersonalBestProcessor", "Zeepkist.GTR.Backend.PersonalBestProcessor\Zeepkist.GTR.Backend.PersonalBestProcessor.csproj", "{79993073-4069-4D0C-AE93-DECDE85F1238}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zeepkist.GTR.Backend.WorldRecordProcessor", "Zeepkist.GTR.Backend.WorldRecordProcessor\Zeepkist.GTR.Backend.WorldRecordProcessor.csproj", "{D4381633-5E6E-4769-A01E-2CDA001D4073}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zeepkist.GTR.Backend.LevelScoreCalculator", "Zeepkist.GTR.Backend.LevelScoreCalculator\Zeepkist.GTR.Backend.LevelScoreCalculator.csproj", "{DFE3D0D8-B495-4BA6-AAB4-279F1C50B815}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zeepkist.GTR.Backend.PlayerPointsCalculator", "Zeepkist.GTR.Backend.PlayerPointsCalculator\Zeepkist.GTR.Backend.PlayerPointsCalculator.csproj", "{82196C41-F466-40D6-9F0C-3F4962FCEBC5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zeepkist.GTR.Backend.JsonApi", "Zeepkist.GTR.Backend.JsonApi\Zeepkist.GTR.Backend.JsonApi.csproj", "{EAC2FF27-A004-4FDE-A125-C2C01320F91A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -54,5 +68,35 @@ Global
 		{FE73482E-6CD0-4E02-AFA8-B707C3A250F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FE73482E-6CD0-4E02-AFA8-B707C3A250F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FE73482E-6CD0-4E02-AFA8-B707C3A250F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CA7CFA6-4255-450E-8DE9-21190D654E4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CA7CFA6-4255-450E-8DE9-21190D654E4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CA7CFA6-4255-450E-8DE9-21190D654E4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CA7CFA6-4255-450E-8DE9-21190D654E4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E6DE06C-8983-4A1A-9308-94FA4966043C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E6DE06C-8983-4A1A-9308-94FA4966043C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E6DE06C-8983-4A1A-9308-94FA4966043C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E6DE06C-8983-4A1A-9308-94FA4966043C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79993073-4069-4D0C-AE93-DECDE85F1238}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79993073-4069-4D0C-AE93-DECDE85F1238}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79993073-4069-4D0C-AE93-DECDE85F1238}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79993073-4069-4D0C-AE93-DECDE85F1238}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4381633-5E6E-4769-A01E-2CDA001D4073}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4381633-5E6E-4769-A01E-2CDA001D4073}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4381633-5E6E-4769-A01E-2CDA001D4073}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4381633-5E6E-4769-A01E-2CDA001D4073}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFE3D0D8-B495-4BA6-AAB4-279F1C50B815}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFE3D0D8-B495-4BA6-AAB4-279F1C50B815}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFE3D0D8-B495-4BA6-AAB4-279F1C50B815}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFE3D0D8-B495-4BA6-AAB4-279F1C50B815}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82196C41-F466-40D6-9F0C-3F4962FCEBC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82196C41-F466-40D6-9F0C-3F4962FCEBC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82196C41-F466-40D6-9F0C-3F4962FCEBC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82196C41-F466-40D6-9F0C-3F4962FCEBC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAC2FF27-A004-4FDE-A125-C2C01320F91A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAC2FF27-A004-4FDE-A125-C2C01320F91A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAC2FF27-A004-4FDE-A125-C2C01320F91A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAC2FF27-A004-4FDE-A125-C2C01320F91A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
 	EndGlobalSection
 EndGlobal
